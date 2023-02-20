@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction au Machine Learning](README.md)
-* [Chapitre 1](chapitre-1/README.md)
-  * [Module 1](chapitre-1/module-1.md)
-  * [Module 2](chapitre-1/module-2.md)
-  * [Module 3](chapitre-1/module-3.md)
+  * [Diagnostic d'une résolution](introduction-au-machine-learning/diagnostic-dune-resolution/README.md)
+    * [Données](introduction-au-machine-learning/diagnostic-dune-resolution/donnees.md)
+    * [Algorithmes](introduction-au-machine-learning/diagnostic-dune-resolution/algorithmes.md)
+  * [Généraliser un modèle](introduction-au-machine-learning/generaliser-un-modele.md)

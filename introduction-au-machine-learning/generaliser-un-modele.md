@@ -1,0 +1,2 @@
+# Généraliser un modèle
+
