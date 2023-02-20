@@ -5,3 +5,5 @@ Si on part du fait qu'on résoudre une typologie de problème, on peut déjà d�
 Il faut savoir diagnostiquer ces défaillances et avoir un ensemble de solutions à tester pour les ajuster.&#x20;
 
 Alors qu'est ce qui peut mal tourner ?&#x20;
+
+<figure><img src="../.gitbook/assets/challenge_ml.png" alt=""><figcaption></figcaption></figure>
